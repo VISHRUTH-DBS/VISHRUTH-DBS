@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VISHRUTH-DBS
 - 👀 I’m interested in software field
 - 🌱 I’m currently learning CS Engg cource in RVU
-- 📫 How to reach me Email vishruthd.btech23@rvu.edu.in
+- 📫 How to reach me Email vishruthdgowda@gmail.com
 
 <!---
 VISHRUTH-DBS/VISHRUTH-DBS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
